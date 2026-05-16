@@ -1,4 +1,7 @@
-<h1 align="center">🌙 Heasang</h1>
+<h1 align="center">
+  👋 HI there! I'm 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=999999&color=7FFFD4&center=true&vCenter=true&repeat=false&width=220&height=40&lines=Heasang" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A5CF6&center=true&vCenter=true&random=false&width=600&lines=Advanced+Roblox+Developer;Discord+Bot+Engineer;Lua+%2B+Python+Developer;Building+LunarHUB..." />
