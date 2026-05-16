@@ -1,51 +1,80 @@
 <h1 align="center">🌙 Heasang</h1>
-<h3 align="center">
-Advanced Roblox & Discord Developer
-</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A5CF6&center=true&vCenter=true&width=435&lines=Lua+Developer;Discord+Bot+Developer;Roblox+Systems+Designer;Always+building+something..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A5CF6&center=true&vCenter=true&random=false&width=600&lines=Advanced+Roblox+Developer;Discord+Bot+Engineer;Lua+%2B+Python+Developer;Building+LunarHUB..." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-111827?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roblox-111827?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord.py-111827?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌌 About Me
 
-- 🌙 Developing **LunarHUB**
-- 🎮 Roblox game & system developer
-- 🤖 Discord bot developer
-- ⚡ Mainly using **Lua** & **Python**
-- 🛠 Building universal tools & automation systems
+```lua
+local Heasang = {
+    languages = { "Lua", "Python", "JavaScript" },
+    
+    focus = {
+        "Roblox Systems",
+        "Discord Bots",
+        "Automation",
+        "Universal Scripts"
+    },
+
+    project = "LunarHUB"
+}
+````
+
+* 🌙 Currently developing **LunarHUB**
+* 🎮 Creating advanced Roblox systems
+* 🤖 Developing Discord automation bots
+* ⚡ Focused on performance & clean UI
+* 🛠 Building universal multi-game systems
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,python,cpp,js,html,css,nodejs,react,java,rust,nginx,pytorch" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,python,cpp,js,html,css,nodejs,react,java,rust,nginx,pytorch&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Project
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=heasang-real&show_icons=true&theme=tokyonight&border_radius=10" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heasang-real&layout=compact&theme=tokyonight&border_radius=10" />
+  <a href="https://github.com/heasang-real/LunarHUB">
+    <img src="https://img.shields.io/badge/🌙_LunarHUB-8A5CF6?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+Universal Roblox script powered by LinoriaLib
 </p>
 
 ---
 
-## 🌌 Current Projects
+## 📈 Activity
 
-- 🌙 LunarHUB
-- 🤖 Discord Automation Systems
-- 🎮 Roblox Multiplayer Systems
-- 🛡 Advanced Anti-Spam Detection
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heasang-real&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heasang-real&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heasang-real&theme=tokyonight" />
+</p>
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heasang-real&label=Profile%20Views&color=8A5CF6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=heasang-real&label=Profile%20Views&color=8A5CF6&style=for-the-badge" />
 </p>
