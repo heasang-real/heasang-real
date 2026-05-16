@@ -13,7 +13,7 @@ Advanced Roblox & Discord Developer
 
 - 🌙 Developing **LunarHUB**
 - 🎮 Roblox game & system developer
-- 🤖 Advanced Discord bot developer
+- 🤖 Discord bot developer
 - ⚡ Mainly using **Lua** & **Python**
 - 🛠 Building universal tools & automation systems
 
