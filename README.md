@@ -30,11 +30,11 @@ local Heasang = {
 }
 ```
 
-* <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=16"> Currently developing **LunarHUB**
-* <img src="https://www.readmecodegen.com/api/social-icon?name=gamepad&size=16"> Creating advanced Roblox systems
-* <img src="https://www.readmecodegen.com/api/social-icon?name=robot&size=16"> Developing Discord automation bots
-* <img src="https://www.readmecodegen.com/api/social-icon?name=zap&size=16"> Focused on performance & clean UI
-* <img src="https://www.readmecodegen.com/api/social-icon?name=tools&size=16"> Building universal multi-game systems
+* <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=16&color=%233b82f6"> Currently developing **LunarHUB**
+* <img src="https://www.readmecodegen.com/api/social-icon?name=roblox&size=96&color=%233b82f6"> Creating advanced Roblox systems
+* <img src="https://www.readmecodegen.com/api/social-icon?name=robot&size=16&color=%233b82f6"> Developing Discord automation bots
+* <img src="https://www.readmecodegen.com/api/social-icon?name=zap&size=16&color=%233b82f6"> Focused on performance & clean UI
+* <img src="https://www.readmecodegen.com/api/social-icon?name=languagetool&size=96"> Building universal multi-game systems
 
 ---
 
