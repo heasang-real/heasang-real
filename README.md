@@ -46,18 +46,9 @@ local Heasang = {
 
 <svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="gradient">
       <stop offset="0%" stop-color="#00ff88"/>
-      <stop offset="50%" stop-color="#66ffe0"/>
-      <stop offset="100%" stop-color="#00ff88"/>
-
-      <animateTransform
-        attributeName="gradientTransform"
-        type="translate"
-        from="-1 0"
-        to="1 0"
-        dur="4s"
-        repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#66ffe0"/>
     </linearGradient>
   </defs>
 
@@ -66,7 +57,7 @@ local Heasang = {
     y="50%"
     text-anchor="middle"
     dominant-baseline="middle"
-    font-family="Arial, sans-serif"
+    font-family="Segoe UI, sans-serif"
     font-size="28"
     font-weight="bold"
     fill="url(#gradient)">
