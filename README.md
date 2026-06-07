@@ -41,7 +41,7 @@ local Heasang = {
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,cpp,js,html,css,nodejs,react,java,rust,nginx,pytorch&perline=6" />
+  <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,nodejs,react,java,rust,pytorch&perline=10" />
 </p>
 
 ---
