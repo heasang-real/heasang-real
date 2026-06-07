@@ -13,12 +13,12 @@
 
 ---
 
-## 🌌 About Me
+## <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=18"> About Me
 
 ```lua
 local Heasang = {
     languages = { "Lua", "Python", "JavaScript" },
-    
+
     focus = {
         "Roblox Systems",
         "Discord Bots",
@@ -28,17 +28,17 @@ local Heasang = {
 
     project = "LunarHUB"
 }
-````
+```
 
-* 🌙 Currently developing **LunarHUB**
-* 🎮 Creating advanced Roblox systems
-* 🤖 Developing Discord automation bots
-* ⚡ Focused on performance & clean UI
-* 🛠 Building universal multi-game systems
+* <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=16"> Currently developing **LunarHUB**
+* <img src="https://www.readmecodegen.com/api/social-icon?name=gamepad&size=16"> Creating advanced Roblox systems
+* <img src="https://www.readmecodegen.com/api/social-icon?name=robot&size=16"> Developing Discord automation bots
+* <img src="https://www.readmecodegen.com/api/social-icon?name=zap&size=16"> Focused on performance & clean UI
+* <img src="https://www.readmecodegen.com/api/social-icon?name=tools&size=16"> Building universal multi-game systems
 
 ---
 
-## 🧰 Tech Stack
+## <img src="https://www.readmecodegen.com/api/social-icon?name=toolbox&size=18"> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,nodejs,react,java,rust,pytorch&perline=10" />
@@ -46,7 +46,7 @@ local Heasang = {
 
 ---
 
-## 🚀 Featured Project
+## <img src="https://www.readmecodegen.com/api/social-icon?name=rocket&size=18"> Featured Project
 
 <p align="center">
   <a href="https://github.com/heasang-real/LunarHUB">
@@ -60,7 +60,7 @@ Universal Roblox script powered by LinoriaLib
 
 ---
 
-## 📈 Activity
+## <img src="https://www.readmecodegen.com/api/social-icon?name=chart&size=18"> Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heasang-real&theme=tokyonight" />
@@ -73,7 +73,7 @@ Universal Roblox script powered by LinoriaLib
 
 ---
 
-## 👀 Profile Views
+## <img src="https://www.readmecodegen.com/api/social-icon?name=eye&size=18"> Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heasang-real&label=Profile%20Views&color=8A5CF6&style=for-the-badge" />
