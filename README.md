@@ -70,7 +70,7 @@ local Heasang = {
     font-size="28"
     font-weight="bold"
     fill="url(#gradient)">
-    Still Learning Rust, PyTorch & Node.js :(
+    Still Learning Rust, PyTorch &amp; Node.js
   </text>
 </svg>
 
