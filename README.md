@@ -44,27 +44,6 @@ local Heasang = {
   <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,nodejs,react,java,rust,pytorch&perline=10" />
 </p>
 
-<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient">
-      <stop offset="0%" stop-color="#00ff88"/>
-      <stop offset="100%" stop-color="#66ffe0"/>
-    </linearGradient>
-  </defs>
-
-  <text
-    x="50%"
-    y="50%"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="Segoe UI, sans-serif"
-    font-size="28"
-    font-weight="bold"
-    fill="url(#gradient)">
-    Still Learning Rust, PyTorch &amp; Node.js
-  </text>
-</svg>
-
 ---
 
 ## 🚀 Featured Project
