@@ -13,7 +13,7 @@
 
 ---
 
-## <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=16&color=%233b82f6"> About Me
+## <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=20&color=%233b82f6"> About Me
 
 ```lua
 local Heasang = {
@@ -38,7 +38,7 @@ local Heasang = {
 
 ---
 
-## <img src="https://www.readmecodegen.com/api/social-icon?name=code&size=16&color=%233b82f6"> Tech Stack
+## <img src="https://www.readmecodegen.com/api/social-icon?name=code&size=20&color=%233b82f6"> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,nodejs,react,java,rust,pytorch&perline=10" />
@@ -46,7 +46,7 @@ local Heasang = {
 
 ---
 
-## <img src="https://www.readmecodegen.com/api/social-icon?name=rocket&size=16&color=%233b82f6"> Featured Project
+## <img src="https://www.readmecodegen.com/api/social-icon?name=rocket&size=20&color=%233b82f6"> Featured Project
 
 <p align="center">
   <a href="https://github.com/heasang-real/LunarHUB">
@@ -60,7 +60,7 @@ Universal Roblox script powered by LinoriaLib
 
 ---
 
-## <img src="https://www.readmecodegen.com/api/social-icon?name=chartdotjs&size=16&color=%233b82f6"> Activity
+## <img src="https://www.readmecodegen.com/api/social-icon?name=chartdotjs&size=20&color=%233b82f6"> Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heasang-real&theme=tokyonight" />
@@ -73,7 +73,7 @@ Universal Roblox script powered by LinoriaLib
 
 ---
 
-## <img src="https://www.readmecodegen.com/api/social-icon?name=eye&size=16"> Profile Views
+## <img src="https://www.readmecodegen.com/api/social-icon?name=eye&size=20"> Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heasang-real&label=Profile%20Views&color=8A5CF6&style=for-the-badge" />
