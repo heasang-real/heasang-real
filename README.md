@@ -17,16 +17,14 @@
 
 ```lua
 local Heasang = {
-    languages = { "Lua", "Python", "JavaScript" },
+    languages = { "lua", "python", "javascript", "html", "css", "nodejs", "react", "java", "rust", "pytorch" },
 
     focus = {
-        "Roblox Systems",
+        "Windows app",
         "Discord Bots",
         "Automation",
-        "Universal Scripts"
-    },
-
-    project = "LunarHUB"
+        "Some Scripts"
+    }
 }
 ```
 
@@ -60,7 +58,7 @@ Universal Roblox script powered by LinoriaLib
 
 ---
 
-## <img src="https://www.readmecodegen.com/api/social-icon?name=chartdotjs&size=20&color=%233b82f6"> Activity
+## <img src="https://www.readmecodegen.com/api/social-icon?name=chartdotjs&size=20&color=%233b82f6"> Activity (Maybe broken)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heasang-real&theme=tokyonight" />
