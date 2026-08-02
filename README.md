@@ -60,13 +60,7 @@ local Heasang = {
 ## <img src="https://www.readmecodegen.com/api/social-icon?name=rocket&size=20&color=%233b82f6"> Featured Project
 
 <p align="center">
-  <a href="https://github.com/heasang-real/LunarHUB">
-    <img src="https://img.shields.io/badge/🌙_LunarHUB-8A5CF6?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-Universal Roblox script powered by LinoriaLib
+  No plans yet. (Probably needs a bit more time.)
 </p>
 
 ---
