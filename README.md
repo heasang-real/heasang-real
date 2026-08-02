@@ -13,6 +13,20 @@
 
 ---
 
+## <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=20&color=%233b82f6"> Contact Me
+
+<p align="center">
+  For contact or business inquiries, please reach out below.
+</p>
+
+<p align="center">
+  <a href="mailto:contact@pkjs.kr">
+    <img src="https://img.shields.io/badge/Email-contact@pkjs.kr-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=20&color=%233b82f6"> About Me
 
 ```lua
@@ -28,11 +42,10 @@ local Heasang = {
 }
 ```
 
-* <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=16&color=%233b82f6"> Currently developing **LunarHUB**
-* <img src="https://www.readmecodegen.com/api/social-icon?name=roblox&size=16&color=%233b82f6"> Creating advanced Roblox systems
+* <img src="https://www.readmecodegen.com/api/social-icon?name=moon&size=16&color=%233b82f6"> Currently developing **Nothing** LOL
+* <img src="https://www.readmecodegen.com/api/social-icon?name=roblox&size=16&color=%233b82f6"> Creating advanced Roblox systems (Maybe)
 * <img src="https://www.readmecodegen.com/api/social-icon?name=robot&size=16&color=%233b82f6"> Developing Discord automation bots
 * <img src="https://www.readmecodegen.com/api/social-icon?name=zap&size=16&color=%233b82f6"> Focused on performance & clean UI
-* <img src="https://www.readmecodegen.com/api/social-icon?name=languagetool&size=16"> Building universal multi-game systems
 
 ---
 
